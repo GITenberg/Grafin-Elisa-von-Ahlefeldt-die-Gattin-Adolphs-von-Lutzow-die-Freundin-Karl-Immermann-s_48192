@@ -1,4 +1,8 @@
 _repo: Grafin-Elisa-von-Ahlefeldt-die-Gattin-Adolphs-von-Lutzow-die-Freundin-Karl-Immermann-s_48192
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48192-h/images/cover.jpg
 creator:
   author:
     agent_name: Assing, Ludmilla
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44669
     wikipedia: http://de.wikipedia.org/wiki/Ludmilla_Assing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48192#Grafin-Elisa-von-Ahlefeldt-die-Gattin-Adolphs-von-Lutzow-die-Freundin-Karl-Immermann-s
 gutenberg_issued: '2015-02-07'
 gutenberg_type: Text
 identifiers:
